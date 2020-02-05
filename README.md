@@ -1,63 +1,45 @@
-# Project Name
+# Learn Ruby the Hard Way / Pesonal Solutions
 
-> One paragraph statement about the project.
+This is a personal project that I create to help me learn, understand an become better at
+ruby. You'll find here the exercises and my solutions to each one of the drills
+presented in the book.
 
-![screenshot](./app_screenshot.png)
+My experince as a Web Developer started 25 November 2020 as a student of
+[Microverse](https://www.microverse.org/) I have no previous experience as programmer.
 
-Additional description about the project and its features.
+![LearRubyTheHardWay](./img/learn_ruby_the_hard_way.png)
+
+> Learn Ruby The Hard Way is the same highly popular way for total beginners to
+> finally learn how to code but for the Ruby programming language. Learn Ruby
+> The Hard Way takes you from absolute zero to able to read and write basic Ruby
+> to then understand other books on Ruby. No experience necessary to begin, and
+> you can even try the book out for free to see if the method works for you. If
+> you've always wanted to learn to code but have no idea where to begin, then
+> this book is for you.
+
+Buy the book [amazon](https://www.amazon.com/gp/product/032188499X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lepythhawa-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=032188499X&linkId=749c050dcfc6e80b914b9496524cce32)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Gitflow
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Contact**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@jubaan](https://github.com/jubaan/)
+- Twitter: [@AnoverosJulio](https://twitter.com/AnoverosJulio)
+- Linkedin: [linkedin](https://www.linkedin.com/in/julio-a%C3%B1overos-b987a8a0/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/jubaan/learn-ruby-the-hard-way/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 
 ## Show your support
 
@@ -65,9 +47,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Learn Ruby the Hard Way](https://learncodethehardway.org/ruby/)
 
 ## 📝 License
 
