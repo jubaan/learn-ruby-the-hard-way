@@ -22,7 +22,6 @@ Buy the book [amazon](https://www.amazon.com/gp/product/032188499X/ref=as_li_qf_
 ## Built With
 
 - Gitflow
-- Ruby
 
 ## Live Demo
 
